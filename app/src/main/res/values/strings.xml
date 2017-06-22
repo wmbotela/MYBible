@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MY Bible</string>
+    <string name="title_activity_verses">VersesActivity</string>
 </resources>

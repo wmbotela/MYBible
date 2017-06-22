@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414788373478",
+    "firebase_url": "https://my-bible-4a8f2.firebaseio.com",
+    "project_id": "my-bible-4a8f2",
+    "storage_bucket": "my-bible-4a8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414788373478:android:4156eadd03f6de0e",
+        "android_client_info": {
+          "package_name": "com.moringaschool.mybible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414788373478-2b2g9a18prl56lina30ltgg41nsdpnke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moringaschool.mybible",
+            "certificate_hash": "75d23e6c82cbe27e784502375f40b5569d7516e9"
+          }
+        },
+        {
+          "client_id": "414788373478-qphfs30kinnhocim7npq1pi0mfrn0rm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuEC0Lyf39iwHQ99CfOLu2WuH_Eqj7uY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414788373478-qphfs30kinnhocim7npq1pi0mfrn0rm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
